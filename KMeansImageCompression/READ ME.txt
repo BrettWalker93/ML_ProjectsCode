@@ -1,0 +1,3 @@
+in each folder is a variant of KMeans.java, its compiled .class file, and a .bat file
+
+each .bat file compiles the KMeans.java code, and then executes it 10 times according to image and k-value.
