@@ -1,0 +1,159 @@
+accidents with 2 components:
+        Validation set LL: -31.86570736378214
+        Test set LL: -32.11103374159591
+
+accidents with 5 components:
+        Validation set LL: -30.266542668156188
+        Test set LL: -30.47944634129171
+
+accidents with 10 components:
+        Validation set LL: -29.76472642059427
+        Test set LL: -30.094398214078282
+
+accidents with 20 components:
+        Validation set LL: -29.34072948487111
+        Test set LL: -29.66474377219968
+
+baudio with 2 components:
+        Validation set LL: -41.796281199698775
+        Test set LL: -42.04898226837648
+
+baudio with 5 components:
+        Validation set LL: -40.58094029275831
+        Test set LL: -40.84237166895435
+
+baudio with 10 components:
+        Validation set LL: -39.99149933837101
+        Test set LL: -40.28543985784304
+
+baudio with 20 components:
+        Validation set LL: -39.85800419804474
+        Test set LL: -40.068124629556955
+
+bnetflix with 2 components:
+        Validation set LL: -59.126985356244525
+        Test set LL: -59.12576257222383
+
+bnetflix with 5 components:
+        Validation set LL: -57.663536881900285
+        Test set LL: -57.62772416455674
+
+bnetflix with 10 components:
+        Validation set LL: -57.116424353559836
+        Test set LL: -57.083941403188405
+
+bnetflix with 20 components:
+        Validation set LL: -56.661525230100764
+        Test set LL: -56.74859051734769
+
+jester with 2 components:
+        Validation set LL: -55.37882084249726
+        Test set LL: -55.13978172758707
+
+jester with 5 components:
+        Validation set LL: -53.84607032541533
+        Test set LL: -53.558410145221295
+
+jester with 10 components:
+        Validation set LL: -53.44068215961332
+        Test set LL: -53.15231872565892
+
+jester with 20 components:
+        Validation set LL: -53.330690938982684
+        Test set LL: -53.100426502624295
+
+kdd with 2 components:
+        Validation set LL: -2.3760434731542226
+        Test set LL: -2.1708742225114883
+
+kdd with 5 components:
+        Validation set LL: -2.3447831889853923
+        Test set LL: -2.1364975897039207
+
+kdd with 10 components:
+        Validation set LL: -2.334309703452899
+        Test set LL: -2.1364903371456005
+
+kdd with 20 components: 
+	Validation set LL: -2.3527834738743376
+	Test set LL: -2.146886853335485
+
+msnbc with 2 components: 
+	Validation set LL: -6.451951835665853
+	Test set LL: -6.4519169331989925
+
+msnbc with 5 components: 
+	Validation set LL: -6.325356405449813
+	Test set LL: -6.3236411874904235
+
+msnbc with 10 components: 
+	Validation set LL: -6.243435862147318
+	Test set LL: -6.242378598592073
+
+msnbc with 20 components: 
+	Validation set LL: -6.431830376003506
+	Test set LL: -6.431316922616459
+
+nltcs with 2 components: 
+	Validation set LL: -6.157276081945577
+	Test set LL: -6.2312645002794
+
+nltcs with 5 components: 
+	Validation set LL: -6.008580271655746
+	Test set LL: -6.087378371734916
+
+nltcs with 10 components: 
+	Validation set LL: -5.960212635354022
+	Test set LL: -6.020069628578342
+
+nltcs with 20 components: 
+	Validation set LL: -5.961363229872183
+	Test set LL: -6.016479306371299
+
+plants with 2 components: 
+	Validation set LL: -15.155494102222859
+	Test set LL: -15.16033167867146
+
+plants with 5 components: 
+	Validation set LL: -14.218474101338632
+	Test set LL: -14.251124120428324
+
+plants with 10 components: 
+	Validation set LL: -13.57708818918896
+	Test set LL: -13.504292316776445
+
+plants with 20 components: 
+	Validation set LL: -13.491066056585852
+	Test set LL: -13.42443795351933
+
+pumsb_star with 2 components: 
+	Validation set LL: -27.139291344265825
+	Test set LL: -27.00547452713632
+
+pumsb_star with 5 components: 
+	Validation set LL: -25.03681006909495
+	Test set LL: -24.861842889259112
+
+pumsb_star with 10 components: 
+	Validation set LL: -24.563753390365935
+	Test set LL: -24.34676806566656
+
+pumsb_star with 20 components: 
+	Validation set LL: -24.251489026682872
+	Test set LL: -24.012546909199283
+
+tretail with 2 components: 
+	Validation set LL: -10.849466830422175
+	Test set LL: -10.831033105325535
+
+tretail with 5 components: 
+	Validation set LL: -10.833563286735572
+	Test set LL: -10.836980564383069
+
+tretail with 10 components: 
+	Validation set LL: -10.882631580796348
+	Test set LL: -10.89348755609962
+
+tretail with 20 components: 
+	Validation set LL: -10.967947646821269
+	Test set LL: -10.942578245780297

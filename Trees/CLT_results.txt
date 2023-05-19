@@ -1,0 +1,30 @@
+accidents: 
+	Validation set LL: -32.896647942402886
+	Test set LL: -33.18811042986219
+baudio: 
+	Validation set LL: -44.079822104943595
+	Test set LL: -44.374902217296565
+bnetflix: 
+	Validation set LL: -60.24966501445565
+	Test set LL: -60.25034595063276
+jester: 
+	Validation set LL: -58.34241932409649
+	Test set LL: -58.226531938334375
+kdd: 
+	Validation set LL: -2.5264859028336297
+	Test set LL: -2.294894071447107
+msnbc: 
+	Validation set LL: -6.540024554416134
+	Test set LL: -6.540127355063576
+nltcs: 
+	Validation set LL: -6.718531831446598
+	Test set LL: -6.759044665013505
+plants: 
+	Validation set LL: -16.517598165301358
+	Test set LL: -16.524015044243548
+pumsb_star: 
+	Validation set LL: -30.925779616157463
+	Test set LL: -30.80704843957858
+tretail: 
+	Validation set LL: -10.940996030748932
+	Test set LL: -10.946544781894685

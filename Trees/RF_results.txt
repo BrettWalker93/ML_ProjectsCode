@@ -1,0 +1,1289 @@
+part 2.3:
+accidents with 2 components and 1232 zero edges: 
+	Validation set LL: -33.898243130964694
+	Test set LL: -34.203416679985835
+accidents with 2 components and 2464 zero edges: 
+	Validation set LL: -33.97965444007325
+	Test set LL: -34.211070881417726
+accidents with 2 components and 3696 zero edges: 
+	Validation set LL: -36.409145757306206
+	Test set LL: -36.705799213418636
+accidents with 2 components and 4928 zero edges: 
+	Validation set LL: -36.792503677803694
+	Test set LL: -37.01065028409307
+accidents with 2 components and 6160 zero edges: 
+	Validation set LL: -38.051486625665014
+	Test set LL: -38.381500331682744
+accidents with 5 components and 1232 zero edges: 
+	Validation set LL: -33.71184528716929
+	Test set LL: -34.034204579552025
+accidents with 5 components and 2464 zero edges: 
+	Validation set LL: -34.422022582116526
+	Test set LL: -34.71091264979796
+accidents with 5 components and 3696 zero edges: 
+	Validation set LL: -35.28336198639326
+	Test set LL: -35.53429174004127
+accidents with 5 components and 4928 zero edges: 
+	Validation set LL: -35.698200686333564
+	Test set LL: -35.963714061532926
+accidents with 5 components and 6160 zero edges: 
+	Validation set LL: -36.761874413065605
+	Test set LL: -37.070183780880186
+accidents with 10 components and 1232 zero edges: 
+	Validation set LL: -33.40632092175948
+	Test set LL: -33.689109852621314
+accidents with 10 components and 2464 zero edges: 
+	Validation set LL: -33.83872765850254
+	Test set LL: -34.089352552533875
+accidents with 10 components and 3696 zero edges: 
+	Validation set LL: -34.568368598902566
+	Test set LL: -34.819836654386776
+accidents with 10 components and 4928 zero edges: 
+	Validation set LL: -35.621688455003
+	Test set LL: -35.84602690411585
+accidents with 10 components and 6160 zero edges: 
+	Validation set LL: -36.578263855086725
+	Test set LL: -36.816972307244725
+accidents with 20 components and 1232 zero edges: 
+	Validation set LL: -33.260518184068204
+	Test set LL: -33.54071669108118
+accidents with 20 components and 2464 zero edges: 
+	Validation set LL: -33.94034820255612
+	Test set LL: -34.18797507896357
+accidents with 20 components and 3696 zero edges: 
+	Validation set LL: -34.5038003341126
+	Test set LL: -34.75589615133434
+accidents with 20 components and 4928 zero edges: 
+	Validation set LL: -35.4483283109429
+	Test set LL: -35.67662015429667
+accidents with 20 components and 6160 zero edges: 
+	Validation set LL: -36.47171094776049
+	Test set LL: -36.74384877129854
+baudio with 2 components and 1000 zero edges: 
+	Validation set LL: -43.877606401753894
+	Test set LL: -44.18081679042752
+baudio with 2 components and 2000 zero edges: 
+	Validation set LL: -43.939562224902986
+	Test set LL: -44.2200746419792
+baudio with 2 components and 3000 zero edges: 
+	Validation set LL: -43.997350321069234
+	Test set LL: -44.17363136279542
+baudio with 2 components and 4000 zero edges: 
+	Validation set LL: -44.19253039405551
+	Test set LL: -44.36139058622153
+baudio with 2 components and 5000 zero edges: 
+	Validation set LL: -44.293921039300244
+	Test set LL: -44.53578039632023
+baudio with 5 components and 1000 zero edges: 
+	Validation set LL: -43.61315452610399
+	Test set LL: -43.87785555361906
+baudio with 5 components and 2000 zero edges: 
+	Validation set LL: -43.54348603798528
+	Test set LL: -43.79124857370887
+baudio with 5 components and 3000 zero edges: 
+	Validation set LL: -43.44333603546181
+	Test set LL: -43.675498963569126
+baudio with 5 components and 4000 zero edges: 
+	Validation set LL: -43.56450799968829
+	Test set LL: -43.81026901748585
+baudio with 5 components and 5000 zero edges: 
+	Validation set LL: -43.65132053757315
+	Test set LL: -43.83835168981182
+baudio with 10 components and 1000 zero edges: 
+	Validation set LL: -43.485497494371785
+	Test set LL: -43.76570320543391
+baudio with 10 components and 2000 zero edges: 
+	Validation set LL: -43.261485703857375
+	Test set LL: -43.547203495437145
+baudio with 10 components and 3000 zero edges: 
+	Validation set LL: -43.22785042136849
+	Test set LL: -43.45624215000904
+baudio with 10 components and 4000 zero edges: 
+	Validation set LL: -43.32861307656684
+	Test set LL: -43.55278762570334
+baudio with 10 components and 5000 zero edges: 
+	Validation set LL: -43.391754525915225
+	Test set LL: -43.58914751394514
+baudio with 20 components and 1000 zero edges: 
+	Validation set LL: -43.453760643995615
+	Test set LL: -43.69708101220906
+baudio with 20 components and 2000 zero edges: 
+	Validation set LL: -43.20559798144933
+	Test set LL: -43.42072642751844
+baudio with 20 components and 3000 zero edges: 
+	Validation set LL: -43.12234567088146
+	Test set LL: -43.35279409364578
+baudio with 20 components and 4000 zero edges: 
+	Validation set LL: -43.094073592539274
+	Test set LL: -43.339680586677886
+baudio with 20 components and 5000 zero edges: 
+	Validation set LL: -43.14861970661867
+	Test set LL: -43.40607631305179
+bnetflix with 2 components and 1000 zero edges: 
+	Validation set LL: -60.08397706410992
+	Test set LL: -60.08233810466784
+bnetflix with 2 components and 2000 zero edges: 
+	Validation set LL: -60.23791852971872
+	Test set LL: -60.253229451729375
+bnetflix with 2 components and 3000 zero edges: 
+	Validation set LL: -60.44877563476245
+	Test set LL: -60.444813147745165
+bnetflix with 2 components and 4000 zero edges: 
+	Validation set LL: -60.46707627529873
+	Test set LL: -60.448576562815006
+bnetflix with 2 components and 5000 zero edges: 
+	Validation set LL: -60.783800356544205
+	Test set LL: -60.86854215045756
+bnetflix with 5 components and 1000 zero edges: 
+	Validation set LL: -59.83834983483488
+	Test set LL: -59.865164766654054
+bnetflix with 5 components and 2000 zero edges: 
+	Validation set LL: -59.80236171323392
+	Test set LL: -59.848763232344915
+bnetflix with 5 components and 3000 zero edges: 
+	Validation set LL: -59.83270808334878
+	Test set LL: -59.847070308520266
+bnetflix with 5 components and 4000 zero edges: 
+	Validation set LL: -59.97268164713189
+	Test set LL: -59.99748384608339
+bnetflix with 5 components and 5000 zero edges: 
+	Validation set LL: -60.153993101233354
+	Test set LL: -60.18175747283582
+bnetflix with 10 components and 1000 zero edges: 
+	Validation set LL: -59.75323296038801
+	Test set LL: -59.778821975997374
+bnetflix with 10 components and 2000 zero edges: 
+	Validation set LL: -59.69656152086693
+	Test set LL: -59.70252314516388
+bnetflix with 10 components and 3000 zero edges: 
+	Validation set LL: -59.68449680056962
+	Test set LL: -59.738781136095206
+bnetflix with 10 components and 4000 zero edges: 
+	Validation set LL: -59.76388490195958
+	Test set LL: -59.84985085596217
+bnetflix with 10 components and 5000 zero edges: 
+	Validation set LL: -59.90246126615642
+	Test set LL: -59.95985012595837
+bnetflix with 20 components and 1000 zero edges: 
+	Validation set LL: -59.67216317290805
+	Test set LL: -59.70330031376819
+bnetflix with 20 components and 2000 zero edges: 
+	Validation set LL: -59.53895443289265
+	Test set LL: -59.56332782166486
+bnetflix with 20 components and 3000 zero edges: 
+	Validation set LL: -59.54905550510133
+	Test set LL: -59.589349530524416
+bnetflix with 20 components and 4000 zero edges: 
+	Validation set LL: -59.60682473672495
+	Test set LL: -59.62059225943106
+bnetflix with 20 components and 5000 zero edges: 
+	Validation set LL: -59.830949974655645
+	Test set LL: -59.84621912967195
+jester with 2 components and 1000 zero edges: 
+	Validation set LL: -58.12276840468919
+	Test set LL: -58.01286176020431
+jester with 2 components and 2000 zero edges: 
+	Validation set LL: -58.05762452928702
+	Test set LL: -57.98132555367857
+jester with 2 components and 3000 zero edges: 
+	Validation set LL: -58.23963320460396
+	Test set LL: -58.09143525816932
+jester with 2 components and 4000 zero edges: 
+	Validation set LL: -58.267556943285854
+	Test set LL: -58.1503415205944
+jester with 2 components and 5000 zero edges: 
+	Validation set LL: -58.46214721072228
+	Test set LL: -58.2992611922788
+jester with 5 components and 1000 zero edges: 
+	Validation set LL: -57.75025529801411
+	Test set LL: -57.636957935839064
+jester with 5 components and 2000 zero edges: 
+	Validation set LL: -57.63432523453466
+	Test set LL: -57.493691180050405
+jester with 5 components and 3000 zero edges: 
+	Validation set LL: -57.631350033579274
+	Test set LL: -57.52354748644047
+jester with 5 components and 4000 zero edges: 
+	Validation set LL: -57.595468718484625
+	Test set LL: -57.57159858069069
+jester with 5 components and 5000 zero edges: 
+	Validation set LL: -57.74327567024429
+	Test set LL: -57.63721174714295
+jester with 10 components and 1000 zero edges: 
+	Validation set LL: -57.69060719824468
+	Test set LL: -57.603073811805785
+jester with 10 components and 2000 zero edges: 
+	Validation set LL: -57.402171347789775
+	Test set LL: -57.30443419145809
+jester with 10 components and 3000 zero edges: 
+	Validation set LL: -57.36163259040932
+	Test set LL: -57.22211015118715
+jester with 10 components and 4000 zero edges: 
+	Validation set LL: -57.30615442913529
+	Test set LL: -57.270107660072384
+jester with 10 components and 5000 zero edges: 
+	Validation set LL: -57.37583242376336
+	Test set LL: -57.30084584679011
+jester with 20 components and 1000 zero edges: 
+	Validation set LL: -57.53301145915448
+	Test set LL: -57.433214974961345
+jester with 20 components and 2000 zero edges: 
+	Validation set LL: -57.251451700446005
+	Test set LL: -57.153525730605054
+jester with 20 components and 3000 zero edges: 
+	Validation set LL: -57.098001637834834
+	Test set LL: -57.01600513258781
+jester with 20 components and 4000 zero edges: 
+	Validation set LL: -57.09065505265638
+	Test set LL: -57.03423990590904
+jester with 20 components and 5000 zero edges: 
+	Validation set LL: -57.23023809462416
+	Test set LL: -57.12588242201845
+kdd with 2 components and 409 zero edges: 
+	Validation set LL: -2.514777564127538
+	Test set LL: -2.285894835221338
+kdd with 2 components and 819 zero edges: 
+	Validation set LL: -2.514450456288958
+	Test set LL: -2.276220764422687
+kdd with 2 components and 1228 zero edges: 
+	Validation set LL: -2.5171239197206416
+	Test set LL: -2.2817087615016427
+kdd with 2 components and 1638 zero edges: 
+	Validation set LL: -2.5321000457445697
+	Test set LL: -2.290168515608174
+kdd with 2 components and 2048 zero edges: 
+	Validation set LL: -2.5380312339080975
+	Test set LL: -2.2892959734788882
+kdd with 5 components and 409 zero edges: 
+	Validation set LL: -2.494919623766246
+	Test set LL: -2.2611196867674335
+kdd with 5 components and 819 zero edges: 
+	Validation set LL: -2.494976819646619
+	Test set LL: -2.2590248860919266
+kdd with 5 components and 1228 zero edges: 
+	Validation set LL: -2.4942031737070587
+	Test set LL: -2.2436234972657343
+kdd with 5 components and 1638 zero edges: 
+	Validation set LL: -2.4917721700074105
+	Test set LL: -2.256726563472825
+kdd with 5 components and 2048 zero edges: 
+	Validation set LL: -2.4904526111161838
+	Test set LL: -2.2390344174734977
+kdd with 10 components and 409 zero edges: 
+	Validation set LL: -2.4927457091873064
+	Test set LL: -2.255770990159534
+kdd with 10 components and 819 zero edges: 
+	Validation set LL: -2.4835791678406163
+	Test set LL: -2.2443841642140647
+kdd with 10 components and 1228 zero edges: 
+	Validation set LL: -2.4791448633026203
+	Test set LL: -2.235518547680791
+kdd with 10 components and 1638 zero edges: 
+	Validation set LL: -2.4800908058810087
+	Test set LL: -2.235963960889894
+kdd with 10 components and 2048 zero edges: 
+	Validation set LL: -2.4856023326686807
+	Test set LL: -2.228921835866776
+kdd with 20 components and 409 zero edges: 
+	Validation set LL: -2.4944239194742424
+	Test set LL: -2.2552561326431455
+kdd with 20 components and 819 zero edges: 
+	Validation set LL: -2.48220458153312
+	Test set LL: -2.239695134028232
+kdd with 20 components and 1228 zero edges: 
+	Validation set LL: -2.4742103167114156
+	Test set LL: -2.229715583249118
+kdd with 20 components and 1638 zero edges: 
+	Validation set LL: -2.4757183096410675
+	Test set LL: -2.22679501070691
+kdd with 20 components and 2048 zero edges: 
+	Validation set LL: -2.470785377697281
+	Test set LL: -2.2192774389703684
+msnbc with 2 components and 28 zero edges: 
+	Validation set LL: -6.542153003282264
+	Test set LL: -6.540459056727126
+msnbc with 2 components and 57 zero edges: 
+	Validation set LL: -6.565117202425096
+	Test set LL: -6.562542853657882
+msnbc with 2 components and 86 zero edges: 
+	Validation set LL: -6.570737817557798
+	Test set LL: -6.568574535549416
+msnbc with 2 components and 115 zero edges: 
+	Validation set LL: -6.590270182915841
+	Test set LL: -6.584611154666466
+msnbc with 2 components and 144 zero edges: 
+	Validation set LL: -6.614211148767087
+	Test set LL: -6.61040907944352
+msnbc with 5 components and 28 zero edges: 
+	Validation set LL: -6.53321105680536
+	Test set LL: -6.533790589669415
+msnbc with 5 components and 57 zero edges: 
+	Validation set LL: -6.551591114779377
+	Test set LL: -6.550945411192934
+msnbc with 5 components and 86 zero edges: 
+	Validation set LL: -6.57051987556053
+	Test set LL: -6.569596854039612
+msnbc with 5 components and 115 zero edges: 
+	Validation set LL: -6.57181353215042
+	Test set LL: -6.5703689466260515
+msnbc with 5 components and 144 zero edges: 
+	Validation set LL: -6.625257643813199
+	Test set LL: -6.622447053651747
+msnbc with 10 components and 28 zero edges: 
+	Validation set LL: -6.5365581980924565
+	Test set LL: -6.535949622072179
+msnbc with 10 components and 57 zero edges: 
+	Validation set LL: -6.542973889510753
+	Test set LL: -6.542194619228871
+msnbc with 10 components and 86 zero edges: 
+	Validation set LL: -6.555297872683061
+	Test set LL: -6.552750751910909
+msnbc with 10 components and 115 zero edges: 
+	Validation set LL: -6.570995039797378
+	Test set LL: -6.567351402310888
+msnbc with 10 components and 144 zero edges: 
+	Validation set LL: -6.591590663151446
+	Test set LL: -6.587887048868487
+msnbc with 20 components and 28 zero edges: 
+	Validation set LL: -6.528967652370254
+	Test set LL: -6.527875817152976
+msnbc with 20 components and 57 zero edges: 
+	Validation set LL: -6.532621020074387
+	Test set LL: -6.530911940812471
+msnbc with 20 components and 86 zero edges: 
+	Validation set LL: -6.556206267925222
+	Test set LL: -6.55420824195522
+msnbc with 20 components and 115 zero edges: 
+	Validation set LL: -6.5617109325233995
+	Test set LL: -6.558046736619553
+msnbc with 20 components and 144 zero edges: 
+	Validation set LL: -6.589898867858246
+	Test set LL: -6.587384861809431
+nltcs with 2 components and 25 zero edges: 
+	Validation set LL: -6.668078872452509
+	Test set LL: -6.72351368863363
+nltcs with 2 components and 51 zero edges: 
+	Validation set LL: -6.853311213132072
+	Test set LL: -6.8483581290176385
+nltcs with 2 components and 76 zero edges: 
+	Validation set LL: -6.83945014632139
+	Test set LL: -6.862527081794301
+nltcs with 2 components and 102 zero edges: 
+	Validation set LL: -6.9308268499270556
+	Test set LL: -6.9285447499894985
+nltcs with 2 components and 128 zero edges: 
+	Validation set LL: -6.943700473851892
+	Test set LL: -6.964456132873124
+nltcs with 5 components and 25 zero edges: 
+	Validation set LL: -6.660792667427219
+	Test set LL: -6.704830010906245
+nltcs with 5 components and 51 zero edges: 
+	Validation set LL: -6.661689191440278
+	Test set LL: -6.653368835441693
+nltcs with 5 components and 76 zero edges: 
+	Validation set LL: -6.6730977357863
+	Test set LL: -6.679901188060733
+nltcs with 5 components and 102 zero edges: 
+	Validation set LL: -6.751051139343865
+	Test set LL: -6.750428686516301
+nltcs with 5 components and 128 zero edges: 
+	Validation set LL: -6.864098159879845
+	Test set LL: -6.846863595770476
+nltcs with 10 components and 25 zero edges: 
+	Validation set LL: -6.565275396113957
+	Test set LL: -6.589953980305947
+nltcs with 10 components and 51 zero edges: 
+	Validation set LL: -6.516105209918501
+	Test set LL: -6.531167128888708
+nltcs with 10 components and 76 zero edges: 
+	Validation set LL: -6.5552346824398
+	Test set LL: -6.5646317793570415
+nltcs with 10 components and 102 zero edges: 
+	Validation set LL: -6.585866797984679
+	Test set LL: -6.601513459318276
+nltcs with 10 components and 128 zero edges: 
+	Validation set LL: -6.690587934840989
+	Test set LL: -6.680002327221793
+nltcs with 20 components and 25 zero edges: 
+	Validation set LL: -6.542293634859172
+	Test set LL: -6.5653727006028255
+nltcs with 20 components and 51 zero edges: 
+	Validation set LL: -6.515515825339212
+	Test set LL: -6.5394823576025285
+nltcs with 20 components and 76 zero edges: 
+	Validation set LL: -6.517373269822203
+	Test set LL: -6.537207128939536
+nltcs with 20 components and 102 zero edges: 
+	Validation set LL: -6.635381311853286
+	Test set LL: -6.642162118787563
+nltcs with 20 components and 128 zero edges: 
+	Validation set LL: -6.685672962435927
+	Test set LL: -6.68805982593662
+plants with 2 components and 476 zero edges: 
+	Validation set LL: -16.48985521827064
+	Test set LL: -16.524090044061033
+plants with 2 components and 952 zero edges: 
+	Validation set LL: -16.707335222365003
+	Test set LL: -16.714808084182575
+plants with 2 components and 1428 zero edges: 
+	Validation set LL: -16.84333070056076
+	Test set LL: -16.804893148763117
+plants with 2 components and 1904 zero edges: 
+	Validation set LL: -17.326028501742382
+	Test set LL: -17.349661415757343
+plants with 2 components and 2380 zero edges: 
+	Validation set LL: -17.577852182790167
+	Test set LL: -17.673416337618864
+plants with 5 components and 476 zero edges: 
+	Validation set LL: -16.03230979470906
+	Test set LL: -16.0632311580851
+plants with 5 components and 952 zero edges: 
+	Validation set LL: -15.986962608572036
+	Test set LL: -16.011383829510077
+plants with 5 components and 1428 zero edges: 
+	Validation set LL: -16.17175432796563
+	Test set LL: -16.230075781387605
+plants with 5 components and 1904 zero edges: 
+	Validation set LL: -16.56293277451081
+	Test set LL: -16.66951149444714
+plants with 5 components and 2380 zero edges: 
+	Validation set LL: -16.992196612529515
+	Test set LL: -16.972601227259307
+plants with 10 components and 476 zero edges: 
+	Validation set LL: -15.80263896296424
+	Test set LL: -15.764132695155546
+plants with 10 components and 952 zero edges: 
+	Validation set LL: -15.855290056923135
+	Test set LL: -15.82631726310482
+plants with 10 components and 1428 zero edges: 
+	Validation set LL: -15.89488510946428
+	Test set LL: -15.966567763311895
+plants with 10 components and 1904 zero edges: 
+	Validation set LL: -16.37637564609067
+	Test set LL: -16.38159529049215
+plants with 10 components and 2380 zero edges: 
+	Validation set LL: -16.48584419799116
+	Test set LL: -16.57812200843805
+plants with 20 components and 476 zero edges: 
+	Validation set LL: -15.721135919626587
+	Test set LL: -15.71165328940976
+plants with 20 components and 952 zero edges: 
+	Validation set LL: -15.62847869561772
+	Test set LL: -15.658659827240992
+plants with 20 components and 1428 zero edges: 
+	Validation set LL: -15.748153050931746
+	Test set LL: -15.778652509304237
+plants with 20 components and 1904 zero edges: 
+	Validation set LL: -16.02947918015965
+	Test set LL: -16.067819482033123
+plants with 20 components and 2380 zero edges: 
+	Validation set LL: -16.301268217511847
+	Test set LL: -16.364246717928026
+pumsb_star with 2 components and 2656 zero edges: 
+	Validation set LL: -31.885614557186866
+	Test set LL: -31.766117834428698
+pumsb_star with 2 components and 5313 zero edges: 
+	Validation set LL: -32.33227349656956
+	Test set LL: -32.14909976530178
+pumsb_star with 2 components and 7970 zero edges: 
+	Validation set LL: -33.78986911937251
+	Test set LL: -33.55968459581917
+pumsb_star with 2 components and 10627 zero edges: 
+	Validation set LL: -35.55663364747745
+	Test set LL: -35.4281431533084
+pumsb_star with 2 components and 13284 zero edges: 
+	Validation set LL: -37.12701804992506
+	Test set LL: -37.034989360756995
+pumsb_star with 5 components and 2656 zero edges: 
+	Validation set LL: -31.39697266944608
+	Test set LL: -31.293455379613324
+pumsb_star with 5 components and 5313 zero edges: 
+	Validation set LL: -32.15406591713355
+	Test set LL: -32.04359475070015
+pumsb_star with 5 components and 7970 zero edges: 
+	Validation set LL: -33.51520926129737
+	Test set LL: -33.368210361633786
+pumsb_star with 5 components and 10627 zero edges: 
+	Validation set LL: -34.62564469371713
+	Test set LL: -34.47549559097375
+pumsb_star with 5 components and 13284 zero edges: 
+	Validation set LL: -35.18141215476672
+	Test set LL: -35.02934676558586
+pumsb_star with 10 components and 2656 zero edges: 
+	Validation set LL: -31.3089238676993
+	Test set LL: -31.168882645109584
+pumsb_star with 10 components and 5313 zero edges: 
+	Validation set LL: -32.036683760018015
+	Test set LL: -31.871891125769285
+pumsb_star with 10 components and 7970 zero edges: 
+	Validation set LL: -33.156581399612904
+	Test set LL: -33.02142148491631
+pumsb_star with 10 components and 10627 zero edges: 
+	Validation set LL: -34.56513248898232
+	Test set LL: -34.49825515302679
+pumsb_star with 10 components and 13284 zero edges: 
+	Validation set LL: -35.5615102123961
+	Test set LL: -35.45043842569694
+pumsb_star with 20 components and 2656 zero edges: 
+	Validation set LL: -31.31894150475629
+	Test set LL: -31.17706723179799
+pumsb_star with 20 components and 5313 zero edges: 
+	Validation set LL: -32.08822052345661
+	Test set LL: -31.932175533228953
+pumsb_star with 20 components and 7970 zero edges: 
+	Validation set LL: -32.973472989698315
+	Test set LL: -32.811483205995366
+pumsb_star with 20 components and 10627 zero edges: 
+	Validation set LL: -33.826688625592865
+	Test set LL: -33.64772725554942
+pumsb_star with 20 components and 13284 zero edges: 
+	Validation set LL: -35.484785189254076
+	Test set LL: -35.38913082958005
+tretail with 2 components and 1822 zero edges: 
+	Validation set LL: -10.977034432867155
+	Test set LL: -10.97337467361272
+tretail with 2 components and 3645 zero edges: 
+	Validation set LL: -11.046930144536287
+	Test set LL: -11.037442259801185
+tretail with 2 components and 5467 zero edges: 
+	Validation set LL: -11.036521764055491
+	Test set LL: -11.04239975454994
+tretail with 2 components and 7290 zero edges: 
+	Validation set LL: -11.051719966928001
+	Test set LL: -11.053189873809767
+tretail with 2 components and 9112 zero edges: 
+	Validation set LL: -11.125186180938654
+	Test set LL: -11.09199902738703
+tretail with 5 components and 1822 zero edges: 
+	Validation set LL: -10.959028194218636
+	Test set LL: -10.957220597339296
+tretail with 5 components and 3645 zero edges: 
+	Validation set LL: -10.990701660493487
+	Test set LL: -10.991775425863695
+tretail with 5 components and 5467 zero edges: 
+	Validation set LL: -11.057655830892363
+	Test set LL: -11.048051268947612
+tretail with 5 components and 7290 zero edges: 
+	Validation set LL: -11.080106792358347
+	Test set LL: -11.07762664685575
+tretail with 5 components and 9112 zero edges: 
+	Validation set LL: -11.111549414630291
+	Test set LL: -11.09924391823239
+tretail with 10 components and 1822 zero edges: 
+	Validation set LL: -10.94959161702035
+	Test set LL: -10.949613007830502
+tretail with 10 components and 3645 zero edges: 
+	Validation set LL: -10.944111654283354
+	Test set LL: -10.942226659193027
+tretail with 10 components and 5467 zero edges: 
+	Validation set LL: -10.986500503449161
+	Test set LL: -10.980792924340738
+tretail with 10 components and 7290 zero edges: 
+	Validation set LL: -11.003423820238977
+	Test set LL: -10.993606354571424
+tretail with 10 components and 9112 zero edges: 
+	Validation set LL: -11.053913781271488
+	Test set LL: -11.041635758469107
+tretail with 20 components and 1822 zero edges: 
+	Validation set LL: -10.942155533718452
+	Test set LL: -10.940386205131992
+tretail with 20 components and 3645 zero edges: 
+	Validation set LL: -10.962558298915578
+	Test set LL: -10.961670933468012
+tretail with 20 components and 5467 zero edges: 
+	Validation set LL: -10.996284185538373
+	Test set LL: -10.99013529311668
+tretail with 20 components and 7290 zero edges: 
+	Validation set LL: -11.0234068679962
+	Test set LL: -11.017844524560854
+tretail with 20 components and 9112 zero edges: 
+	Validation set LL: -11.051708582255149
+	Test set LL: -11.04248538115936
+part 2.3:
+accidents with 2 components and 1232 zero edges: 
+	Validation set LL: -33.898243130964694
+	Test set LL: -34.203416679985835
+accidents with 2 components and 2464 zero edges: 
+	Validation set LL: -33.97965444007325
+	Test set LL: -34.211070881417726
+accidents with 2 components and 3696 zero edges: 
+	Validation set LL: -36.409145757306206
+	Test set LL: -36.705799213418636
+accidents with 2 components and 4928 zero edges: 
+	Validation set LL: -36.792503677803694
+	Test set LL: -37.01065028409307
+accidents with 2 components and 6160 zero edges: 
+	Validation set LL: -38.051486625665014
+	Test set LL: -38.381500331682744
+accidents with 5 components and 1232 zero edges: 
+	Validation set LL: -33.71184528716929
+	Test set LL: -34.034204579552025
+accidents with 5 components and 2464 zero edges: 
+	Validation set LL: -34.422022582116526
+	Test set LL: -34.71091264979796
+accidents with 5 components and 3696 zero edges: 
+	Validation set LL: -35.28336198639326
+	Test set LL: -35.53429174004127
+accidents with 5 components and 4928 zero edges: 
+	Validation set LL: -35.698200686333564
+	Test set LL: -35.963714061532926
+accidents with 5 components and 6160 zero edges: 
+	Validation set LL: -36.761874413065605
+	Test set LL: -37.070183780880186
+accidents with 10 components and 1232 zero edges: 
+	Validation set LL: -33.40632092175948
+	Test set LL: -33.689109852621314
+accidents with 10 components and 2464 zero edges: 
+	Validation set LL: -33.83872765850254
+	Test set LL: -34.089352552533875
+accidents with 10 components and 3696 zero edges: 
+	Validation set LL: -34.568368598902566
+	Test set LL: -34.819836654386776
+accidents with 10 components and 4928 zero edges: 
+	Validation set LL: -35.621688455003
+	Test set LL: -35.84602690411585
+accidents with 10 components and 6160 zero edges: 
+	Validation set LL: -36.578263855086725
+	Test set LL: -36.816972307244725
+accidents with 20 components and 1232 zero edges: 
+	Validation set LL: -33.260518184068204
+	Test set LL: -33.54071669108118
+accidents with 20 components and 2464 zero edges: 
+	Validation set LL: -33.94034820255612
+	Test set LL: -34.18797507896357
+accidents with 20 components and 3696 zero edges: 
+	Validation set LL: -34.5038003341126
+	Test set LL: -34.75589615133434
+accidents with 20 components and 4928 zero edges: 
+	Validation set LL: -35.4483283109429
+	Test set LL: -35.67662015429667
+accidents with 20 components and 6160 zero edges: 
+	Validation set LL: -36.47171094776049
+	Test set LL: -36.74384877129854
+baudio with 2 components and 1000 zero edges: 
+	Validation set LL: -43.877606401753894
+	Test set LL: -44.18081679042752
+baudio with 2 components and 2000 zero edges: 
+	Validation set LL: -43.939562224902986
+	Test set LL: -44.2200746419792
+baudio with 2 components and 3000 zero edges: 
+	Validation set LL: -43.997350321069234
+	Test set LL: -44.17363136279542
+baudio with 2 components and 4000 zero edges: 
+	Validation set LL: -44.19253039405551
+	Test set LL: -44.36139058622153
+baudio with 2 components and 5000 zero edges: 
+	Validation set LL: -44.293921039300244
+	Test set LL: -44.53578039632023
+baudio with 5 components and 1000 zero edges: 
+	Validation set LL: -43.61315452610399
+	Test set LL: -43.87785555361906
+baudio with 5 components and 2000 zero edges: 
+	Validation set LL: -43.54348603798528
+	Test set LL: -43.79124857370887
+baudio with 5 components and 3000 zero edges: 
+	Validation set LL: -43.44333603546181
+	Test set LL: -43.675498963569126
+baudio with 5 components and 4000 zero edges: 
+	Validation set LL: -43.56450799968829
+	Test set LL: -43.81026901748585
+baudio with 5 components and 5000 zero edges: 
+	Validation set LL: -43.65132053757315
+	Test set LL: -43.83835168981182
+baudio with 10 components and 1000 zero edges: 
+	Validation set LL: -43.485497494371785
+	Test set LL: -43.76570320543391
+baudio with 10 components and 2000 zero edges: 
+	Validation set LL: -43.261485703857375
+	Test set LL: -43.547203495437145
+baudio with 10 components and 3000 zero edges: 
+	Validation set LL: -43.22785042136849
+	Test set LL: -43.45624215000904
+baudio with 10 components and 4000 zero edges: 
+	Validation set LL: -43.32861307656684
+	Test set LL: -43.55278762570334
+baudio with 10 components and 5000 zero edges: 
+	Validation set LL: -43.391754525915225
+	Test set LL: -43.58914751394514
+baudio with 20 components and 1000 zero edges: 
+	Validation set LL: -43.453760643995615
+	Test set LL: -43.69708101220906
+baudio with 20 components and 2000 zero edges: 
+	Validation set LL: -43.20559798144933
+	Test set LL: -43.42072642751844
+baudio with 20 components and 3000 zero edges: 
+	Validation set LL: -43.12234567088146
+	Test set LL: -43.35279409364578
+baudio with 20 components and 4000 zero edges: 
+	Validation set LL: -43.094073592539274
+	Test set LL: -43.339680586677886
+baudio with 20 components and 5000 zero edges: 
+	Validation set LL: -43.14861970661867
+	Test set LL: -43.40607631305179
+bnetflix with 2 components and 1000 zero edges: 
+	Validation set LL: -60.08397706410992
+	Test set LL: -60.08233810466784
+bnetflix with 2 components and 2000 zero edges: 
+	Validation set LL: -60.23791852971872
+	Test set LL: -60.253229451729375
+bnetflix with 2 components and 3000 zero edges: 
+	Validation set LL: -60.44877563476245
+	Test set LL: -60.444813147745165
+bnetflix with 2 components and 4000 zero edges: 
+	Validation set LL: -60.46707627529873
+	Test set LL: -60.448576562815006
+bnetflix with 2 components and 5000 zero edges: 
+	Validation set LL: -60.783800356544205
+	Test set LL: -60.86854215045756
+bnetflix with 5 components and 1000 zero edges: 
+	Validation set LL: -59.83834983483488
+	Test set LL: -59.865164766654054
+bnetflix with 5 components and 2000 zero edges: 
+	Validation set LL: -59.80236171323392
+	Test set LL: -59.848763232344915
+bnetflix with 5 components and 3000 zero edges: 
+	Validation set LL: -59.83270808334878
+	Test set LL: -59.847070308520266
+bnetflix with 5 components and 4000 zero edges: 
+	Validation set LL: -59.97268164713189
+	Test set LL: -59.99748384608339
+bnetflix with 5 components and 5000 zero edges: 
+	Validation set LL: -60.153993101233354
+	Test set LL: -60.18175747283582
+bnetflix with 10 components and 1000 zero edges: 
+	Validation set LL: -59.75323296038801
+	Test set LL: -59.778821975997374
+bnetflix with 10 components and 2000 zero edges: 
+	Validation set LL: -59.69656152086693
+	Test set LL: -59.70252314516388
+bnetflix with 10 components and 3000 zero edges: 
+	Validation set LL: -59.68449680056962
+	Test set LL: -59.738781136095206
+bnetflix with 10 components and 4000 zero edges: 
+	Validation set LL: -59.76388490195958
+	Test set LL: -59.84985085596217
+bnetflix with 10 components and 5000 zero edges: 
+	Validation set LL: -59.90246126615642
+	Test set LL: -59.95985012595837
+bnetflix with 20 components and 1000 zero edges: 
+	Validation set LL: -59.67216317290805
+	Test set LL: -59.70330031376819
+bnetflix with 20 components and 2000 zero edges: 
+	Validation set LL: -59.53895443289265
+	Test set LL: -59.56332782166486
+bnetflix with 20 components and 3000 zero edges: 
+	Validation set LL: -59.54905550510133
+	Test set LL: -59.589349530524416
+bnetflix with 20 components and 4000 zero edges: 
+	Validation set LL: -59.60682473672495
+	Test set LL: -59.62059225943106
+bnetflix with 20 components and 5000 zero edges: 
+	Validation set LL: -59.830949974655645
+	Test set LL: -59.84621912967195
+jester with 2 components and 1000 zero edges: 
+	Validation set LL: -58.12276840468919
+	Test set LL: -58.01286176020431
+jester with 2 components and 2000 zero edges: 
+	Validation set LL: -58.05762452928702
+	Test set LL: -57.98132555367857
+jester with 2 components and 3000 zero edges: 
+	Validation set LL: -58.23963320460396
+	Test set LL: -58.09143525816932
+jester with 2 components and 4000 zero edges: 
+	Validation set LL: -58.267556943285854
+	Test set LL: -58.1503415205944
+jester with 2 components and 5000 zero edges: 
+	Validation set LL: -58.46214721072228
+	Test set LL: -58.2992611922788
+jester with 5 components and 1000 zero edges: 
+	Validation set LL: -57.75025529801411
+	Test set LL: -57.636957935839064
+jester with 5 components and 2000 zero edges: 
+	Validation set LL: -57.63432523453466
+	Test set LL: -57.493691180050405
+jester with 5 components and 3000 zero edges: 
+	Validation set LL: -57.631350033579274
+	Test set LL: -57.52354748644047
+jester with 5 components and 4000 zero edges: 
+	Validation set LL: -57.595468718484625
+	Test set LL: -57.57159858069069
+jester with 5 components and 5000 zero edges: 
+	Validation set LL: -57.74327567024429
+	Test set LL: -57.63721174714295
+jester with 10 components and 1000 zero edges: 
+	Validation set LL: -57.69060719824468
+	Test set LL: -57.603073811805785
+jester with 10 components and 2000 zero edges: 
+	Validation set LL: -57.402171347789775
+	Test set LL: -57.30443419145809
+jester with 10 components and 3000 zero edges: 
+	Validation set LL: -57.36163259040932
+	Test set LL: -57.22211015118715
+jester with 10 components and 4000 zero edges: 
+	Validation set LL: -57.30615442913529
+	Test set LL: -57.270107660072384
+jester with 10 components and 5000 zero edges: 
+	Validation set LL: -57.37583242376336
+	Test set LL: -57.30084584679011
+jester with 20 components and 1000 zero edges: 
+	Validation set LL: -57.53301145915448
+	Test set LL: -57.433214974961345
+jester with 20 components and 2000 zero edges: 
+	Validation set LL: -57.251451700446005
+	Test set LL: -57.153525730605054
+jester with 20 components and 3000 zero edges: 
+	Validation set LL: -57.098001637834834
+	Test set LL: -57.01600513258781
+jester with 20 components and 4000 zero edges: 
+	Validation set LL: -57.09065505265638
+	Test set LL: -57.03423990590904
+jester with 20 components and 5000 zero edges: 
+	Validation set LL: -57.23023809462416
+	Test set LL: -57.12588242201845
+kdd with 2 components and 409 zero edges: 
+	Validation set LL: -2.514777564127538
+	Test set LL: -2.285894835221338
+kdd with 2 components and 819 zero edges: 
+	Validation set LL: -2.514450456288958
+	Test set LL: -2.276220764422687
+kdd with 2 components and 1228 zero edges: 
+	Validation set LL: -2.5171239197206416
+	Test set LL: -2.2817087615016427
+kdd with 2 components and 1638 zero edges: 
+	Validation set LL: -2.5321000457445697
+	Test set LL: -2.290168515608174
+kdd with 2 components and 2048 zero edges: 
+	Validation set LL: -2.5380312339080975
+	Test set LL: -2.2892959734788882
+kdd with 5 components and 409 zero edges: 
+	Validation set LL: -2.494919623766246
+	Test set LL: -2.2611196867674335
+kdd with 5 components and 819 zero edges: 
+	Validation set LL: -2.494976819646619
+	Test set LL: -2.2590248860919266
+kdd with 5 components and 1228 zero edges: 
+	Validation set LL: -2.4942031737070587
+	Test set LL: -2.2436234972657343
+kdd with 5 components and 1638 zero edges: 
+	Validation set LL: -2.4917721700074105
+	Test set LL: -2.256726563472825
+kdd with 5 components and 2048 zero edges: 
+	Validation set LL: -2.4904526111161838
+	Test set LL: -2.2390344174734977
+kdd with 10 components and 409 zero edges: 
+	Validation set LL: -2.4927457091873064
+	Test set LL: -2.255770990159534
+kdd with 10 components and 819 zero edges: 
+	Validation set LL: -2.4835791678406163
+	Test set LL: -2.2443841642140647
+kdd with 10 components and 1228 zero edges: 
+	Validation set LL: -2.4791448633026203
+	Test set LL: -2.235518547680791
+kdd with 10 components and 1638 zero edges: 
+	Validation set LL: -2.4800908058810087
+	Test set LL: -2.235963960889894
+kdd with 10 components and 2048 zero edges: 
+	Validation set LL: -2.4856023326686807
+	Test set LL: -2.228921835866776
+kdd with 20 components and 409 zero edges: 
+	Validation set LL: -2.4944239194742424
+	Test set LL: -2.2552561326431455
+kdd with 20 components and 819 zero edges: 
+	Validation set LL: -2.48220458153312
+	Test set LL: -2.239695134028232
+kdd with 20 components and 1228 zero edges: 
+	Validation set LL: -2.4742103167114156
+	Test set LL: -2.229715583249118
+kdd with 20 components and 1638 zero edges: 
+	Validation set LL: -2.4757183096410675
+	Test set LL: -2.22679501070691
+kdd with 20 components and 2048 zero edges: 
+	Validation set LL: -2.470785377697281
+	Test set LL: -2.2192774389703684
+msnbc with 2 components and 28 zero edges: 
+	Validation set LL: -6.542153003282264
+	Test set LL: -6.540459056727126
+msnbc with 2 components and 57 zero edges: 
+	Validation set LL: -6.565117202425096
+	Test set LL: -6.562542853657882
+msnbc with 2 components and 86 zero edges: 
+	Validation set LL: -6.570737817557798
+	Test set LL: -6.568574535549416
+msnbc with 2 components and 115 zero edges: 
+	Validation set LL: -6.590270182915841
+	Test set LL: -6.584611154666466
+msnbc with 2 components and 144 zero edges: 
+	Validation set LL: -6.614211148767087
+	Test set LL: -6.61040907944352
+msnbc with 5 components and 28 zero edges: 
+	Validation set LL: -6.53321105680536
+	Test set LL: -6.533790589669415
+msnbc with 5 components and 57 zero edges: 
+	Validation set LL: -6.551591114779377
+	Test set LL: -6.550945411192934
+msnbc with 5 components and 86 zero edges: 
+	Validation set LL: -6.57051987556053
+	Test set LL: -6.569596854039612
+msnbc with 5 components and 115 zero edges: 
+	Validation set LL: -6.57181353215042
+	Test set LL: -6.5703689466260515
+msnbc with 5 components and 144 zero edges: 
+	Validation set LL: -6.625257643813199
+	Test set LL: -6.622447053651747
+msnbc with 10 components and 28 zero edges: 
+	Validation set LL: -6.5365581980924565
+	Test set LL: -6.535949622072179
+msnbc with 10 components and 57 zero edges: 
+	Validation set LL: -6.542973889510753
+	Test set LL: -6.542194619228871
+msnbc with 10 components and 86 zero edges: 
+	Validation set LL: -6.555297872683061
+	Test set LL: -6.552750751910909
+msnbc with 10 components and 115 zero edges: 
+	Validation set LL: -6.570995039797378
+	Test set LL: -6.567351402310888
+msnbc with 10 components and 144 zero edges: 
+	Validation set LL: -6.591590663151446
+	Test set LL: -6.587887048868487
+msnbc with 20 components and 28 zero edges: 
+	Validation set LL: -6.528967652370254
+	Test set LL: -6.527875817152976
+msnbc with 20 components and 57 zero edges: 
+	Validation set LL: -6.532621020074387
+	Test set LL: -6.530911940812471
+msnbc with 20 components and 86 zero edges: 
+	Validation set LL: -6.556206267925222
+	Test set LL: -6.55420824195522
+msnbc with 20 components and 115 zero edges: 
+	Validation set LL: -6.5617109325233995
+	Test set LL: -6.558046736619553
+msnbc with 20 components and 144 zero edges: 
+	Validation set LL: -6.589898867858246
+	Test set LL: -6.587384861809431
+nltcs with 2 components and 25 zero edges: 
+	Validation set LL: -6.668078872452509
+	Test set LL: -6.72351368863363
+nltcs with 2 components and 51 zero edges: 
+	Validation set LL: -6.853311213132072
+	Test set LL: -6.8483581290176385
+nltcs with 2 components and 76 zero edges: 
+	Validation set LL: -6.83945014632139
+	Test set LL: -6.862527081794301
+nltcs with 2 components and 102 zero edges: 
+	Validation set LL: -6.9308268499270556
+	Test set LL: -6.9285447499894985
+nltcs with 2 components and 128 zero edges: 
+	Validation set LL: -6.943700473851892
+	Test set LL: -6.964456132873124
+nltcs with 5 components and 25 zero edges: 
+	Validation set LL: -6.660792667427219
+	Test set LL: -6.704830010906245
+nltcs with 5 components and 51 zero edges: 
+	Validation set LL: -6.661689191440278
+	Test set LL: -6.653368835441693
+nltcs with 5 components and 76 zero edges: 
+	Validation set LL: -6.6730977357863
+	Test set LL: -6.679901188060733
+nltcs with 5 components and 102 zero edges: 
+	Validation set LL: -6.751051139343865
+	Test set LL: -6.750428686516301
+nltcs with 5 components and 128 zero edges: 
+	Validation set LL: -6.864098159879845
+	Test set LL: -6.846863595770476
+nltcs with 10 components and 25 zero edges: 
+	Validation set LL: -6.565275396113957
+	Test set LL: -6.589953980305947
+nltcs with 10 components and 51 zero edges: 
+	Validation set LL: -6.516105209918501
+	Test set LL: -6.531167128888708
+nltcs with 10 components and 76 zero edges: 
+	Validation set LL: -6.5552346824398
+	Test set LL: -6.5646317793570415
+nltcs with 10 components and 102 zero edges: 
+	Validation set LL: -6.585866797984679
+	Test set LL: -6.601513459318276
+nltcs with 10 components and 128 zero edges: 
+	Validation set LL: -6.690587934840989
+	Test set LL: -6.680002327221793
+nltcs with 20 components and 25 zero edges: 
+	Validation set LL: -6.542293634859172
+	Test set LL: -6.5653727006028255
+nltcs with 20 components and 51 zero edges: 
+	Validation set LL: -6.515515825339212
+	Test set LL: -6.5394823576025285
+nltcs with 20 components and 76 zero edges: 
+	Validation set LL: -6.517373269822203
+	Test set LL: -6.537207128939536
+nltcs with 20 components and 102 zero edges: 
+	Validation set LL: -6.635381311853286
+	Test set LL: -6.642162118787563
+nltcs with 20 components and 128 zero edges: 
+	Validation set LL: -6.685672962435927
+	Test set LL: -6.68805982593662
+plants with 2 components and 476 zero edges: 
+	Validation set LL: -16.48985521827064
+	Test set LL: -16.524090044061033
+plants with 2 components and 952 zero edges: 
+	Validation set LL: -16.707335222365003
+	Test set LL: -16.714808084182575
+plants with 2 components and 1428 zero edges: 
+	Validation set LL: -16.84333070056076
+	Test set LL: -16.804893148763117
+plants with 2 components and 1904 zero edges: 
+	Validation set LL: -17.326028501742382
+	Test set LL: -17.349661415757343
+plants with 2 components and 2380 zero edges: 
+	Validation set LL: -17.577852182790167
+	Test set LL: -17.673416337618864
+plants with 5 components and 476 zero edges: 
+	Validation set LL: -16.03230979470906
+	Test set LL: -16.0632311580851
+plants with 5 components and 952 zero edges: 
+	Validation set LL: -15.986962608572036
+	Test set LL: -16.011383829510077
+plants with 5 components and 1428 zero edges: 
+	Validation set LL: -16.17175432796563
+	Test set LL: -16.230075781387605
+plants with 5 components and 1904 zero edges: 
+	Validation set LL: -16.56293277451081
+	Test set LL: -16.66951149444714
+plants with 5 components and 2380 zero edges: 
+	Validation set LL: -16.992196612529515
+	Test set LL: -16.972601227259307
+plants with 10 components and 476 zero edges: 
+	Validation set LL: -15.80263896296424
+	Test set LL: -15.764132695155546
+plants with 10 components and 952 zero edges: 
+	Validation set LL: -15.855290056923135
+	Test set LL: -15.82631726310482
+plants with 10 components and 1428 zero edges: 
+	Validation set LL: -15.89488510946428
+	Test set LL: -15.966567763311895
+plants with 10 components and 1904 zero edges: 
+	Validation set LL: -16.37637564609067
+	Test set LL: -16.38159529049215
+plants with 10 components and 2380 zero edges: 
+	Validation set LL: -16.48584419799116
+	Test set LL: -16.57812200843805
+plants with 20 components and 476 zero edges: 
+	Validation set LL: -15.721135919626587
+	Test set LL: -15.71165328940976
+plants with 20 components and 952 zero edges: 
+	Validation set LL: -15.62847869561772
+	Test set LL: -15.658659827240992
+plants with 20 components and 1428 zero edges: 
+	Validation set LL: -15.748153050931746
+	Test set LL: -15.778652509304237
+plants with 20 components and 1904 zero edges: 
+	Validation set LL: -16.02947918015965
+	Test set LL: -16.067819482033123
+plants with 20 components and 2380 zero edges: 
+	Validation set LL: -16.301268217511847
+	Test set LL: -16.364246717928026
+pumsb_star with 2 components and 2656 zero edges: 
+	Validation set LL: -31.885614557186866
+	Test set LL: -31.766117834428698
+pumsb_star with 2 components and 5313 zero edges: 
+	Validation set LL: -32.33227349656956
+	Test set LL: -32.14909976530178
+pumsb_star with 2 components and 7970 zero edges: 
+	Validation set LL: -33.78986911937251
+	Test set LL: -33.55968459581917
+pumsb_star with 2 components and 10627 zero edges: 
+	Validation set LL: -35.55663364747745
+	Test set LL: -35.4281431533084
+pumsb_star with 2 components and 13284 zero edges: 
+	Validation set LL: -37.12701804992506
+	Test set LL: -37.034989360756995
+pumsb_star with 5 components and 2656 zero edges: 
+	Validation set LL: -31.39697266944608
+	Test set LL: -31.293455379613324
+pumsb_star with 5 components and 5313 zero edges: 
+	Validation set LL: -32.15406591713355
+	Test set LL: -32.04359475070015
+pumsb_star with 5 components and 7970 zero edges: 
+	Validation set LL: -33.51520926129737
+	Test set LL: -33.368210361633786
+pumsb_star with 5 components and 10627 zero edges: 
+	Validation set LL: -34.62564469371713
+	Test set LL: -34.47549559097375
+pumsb_star with 5 components and 13284 zero edges: 
+	Validation set LL: -35.18141215476672
+	Test set LL: -35.02934676558586
+pumsb_star with 10 components and 2656 zero edges: 
+	Validation set LL: -31.3089238676993
+	Test set LL: -31.168882645109584
+pumsb_star with 10 components and 5313 zero edges: 
+	Validation set LL: -32.036683760018015
+	Test set LL: -31.871891125769285
+pumsb_star with 10 components and 7970 zero edges: 
+	Validation set LL: -33.156581399612904
+	Test set LL: -33.02142148491631
+pumsb_star with 10 components and 10627 zero edges: 
+	Validation set LL: -34.56513248898232
+	Test set LL: -34.49825515302679
+pumsb_star with 10 components and 13284 zero edges: 
+	Validation set LL: -35.5615102123961
+	Test set LL: -35.45043842569694
+pumsb_star with 20 components and 2656 zero edges: 
+	Validation set LL: -31.31894150475629
+	Test set LL: -31.17706723179799
+pumsb_star with 20 components and 5313 zero edges: 
+	Validation set LL: -32.08822052345661
+	Test set LL: -31.932175533228953
+pumsb_star with 20 components and 7970 zero edges: 
+	Validation set LL: -32.973472989698315
+	Test set LL: -32.811483205995366
+pumsb_star with 20 components and 10627 zero edges: 
+	Validation set LL: -33.826688625592865
+	Test set LL: -33.64772725554942
+pumsb_star with 20 components and 13284 zero edges: 
+	Validation set LL: -35.484785189254076
+	Test set LL: -35.38913082958005
+tretail with 2 components and 1822 zero edges: 
+	Validation set LL: -10.977034432867155
+	Test set LL: -10.97337467361272
+tretail with 2 components and 3645 zero edges: 
+	Validation set LL: -11.046930144536287
+	Test set LL: -11.037442259801185
+tretail with 2 components and 5467 zero edges: 
+	Validation set LL: -11.036521764055491
+	Test set LL: -11.04239975454994
+tretail with 2 components and 7290 zero edges: 
+	Validation set LL: -11.051719966928001
+	Test set LL: -11.053189873809767
+tretail with 2 components and 9112 zero edges: 
+	Validation set LL: -11.125186180938654
+	Test set LL: -11.09199902738703
+tretail with 5 components and 1822 zero edges: 
+	Validation set LL: -10.959028194218636
+	Test set LL: -10.957220597339296
+tretail with 5 components and 3645 zero edges: 
+	Validation set LL: -10.990701660493487
+	Test set LL: -10.991775425863695
+tretail with 5 components and 5467 zero edges: 
+	Validation set LL: -11.057655830892363
+	Test set LL: -11.048051268947612
+tretail with 5 components and 7290 zero edges: 
+	Validation set LL: -11.080106792358347
+	Test set LL: -11.07762664685575
+tretail with 5 components and 9112 zero edges: 
+	Validation set LL: -11.111549414630291
+	Test set LL: -11.09924391823239
+tretail with 10 components and 1822 zero edges: 
+	Validation set LL: -10.94959161702035
+	Test set LL: -10.949613007830502
+tretail with 10 components and 3645 zero edges: 
+	Validation set LL: -10.944111654283354
+	Test set LL: -10.942226659193027
+tretail with 10 components and 5467 zero edges: 
+	Validation set LL: -10.986500503449161
+	Test set LL: -10.980792924340738
+tretail with 10 components and 7290 zero edges: 
+	Validation set LL: -11.003423820238977
+	Test set LL: -10.993606354571424
+tretail with 10 components and 9112 zero edges: 
+	Validation set LL: -11.053913781271488
+	Test set LL: -11.041635758469107
+tretail with 20 components and 1822 zero edges: 
+	Validation set LL: -10.942155533718452
+	Test set LL: -10.940386205131992
+tretail with 20 components and 3645 zero edges: 
+	Validation set LL: -10.962558298915578
+	Test set LL: -10.961670933468012
+tretail with 20 components and 5467 zero edges: 
+	Validation set LL: -10.996284185538373
+	Test set LL: -10.99013529311668
+tretail with 20 components and 7290 zero edges: 
+	Validation set LL: -11.0234068679962
+	Test set LL: -11.017844524560854
+tretail with 20 components and 9112 zero edges: 
+	Validation set LL: -11.051708582255149
+	Test set LL: -11.04248538115936
+
+
+accidents with 50 components and 1232 zero edges: 
+	Validation set LL: -33.20134640971465
+	Test set LL: -33.487600882436766
+accidents with 100 components and 1232 zero edges: 
+	Validation set LL: -33.13609448946359
+	Test set LL: -33.41812221741414
+baudio with 50 components and 1000 zero edges: 
+	Validation set LL: -43.345701564039736
+	Test set LL: -43.61350403418221
+baudio with 100 components and 1000 zero edges: 
+	Validation set LL: -43.34141176125495
+	Test set LL: -43.588188452571785
+bnetflix with 50 components and 1000 zero edges: 
+	Validation set LL: -59.64565268971159
+bnetflix with 100 components and 1000 zero edges: 
+	Validation set LL: -59.64364356607513
+jester with 50 components and 1000 zero edges: 
+	Validation set LL: -57.45021720698333
+jester with 100 components and 1000 zero edges: 
+	Validation set LL: -57.44610188565313
+kdd with 50 components and 409 zero edges: 
+	Validation set LL: -2.4750424299139557
+kdd with 100 components and 409 zero edges: 
+	Validation set LL: -2.472008083387717
+msnbc with 50 components and 28 zero edges: 
+	Validation set LL: -6.528544607658203
+msnbc with 100 components and 28 zero edges: 
+	Validation set LL: -6.527777992299098
+nltcs with 50 components and 25 zero edges: 
+	Validation set LL: -6.494566034736753
+nltcs with 100 components and 25 zero edges: 
+	Validation set LL: -6.4876510046906954
+plants with 50 components and 476 zero edges: 
+	Validation set LL: -15.486089007979293
+plants with 100 components and 476 zero edges: 
+	Validation set LL: -15.478381421229269
+pumsb_star with 50 components and 2656 zero edges: 
+	Validation set LL: -31.312594459326945
+pumsb_star with 100 components and 2656 zero edges: 
+	Validation set LL: -31.166624196419193
+tretail with 50 components and 1822 zero edges: 
+	Validation set LL: -10.71776785113315
+tretail with 100 components and 1822 zero edges: 
+	Validation set LL: -10.708841414251184
+
+accidents with 250 components and 1232 zero edges: 
+	Validation set LL: -33.020863729063905
+accidents with 250 components and 6160 zero edges: 
+	Validation set LL: -35.83708409761505
+baudio with 250 components and 1000 zero edges: 
+	Validation set LL: -42.97330327745501
+baudio with 250 components and 5000 zero edges: 
+	Validation set LL: -42.499627543915395
+bnetflix with 250 components and 1000 zero edges: 
+	Validation set LL: -59.41525846509367
+bnetflix with 250 components and 5000 zero edges: 
+	Validation set LL: -59.327788752034586
+jester with 250 components and 1000 zero edges: 
+	Validation set LL: -56.7565120425321
+jester with 250 components and 5000 zero edges: 
+	Validation set LL: -56.1574852014431
+kdd with 250 components and 409 zero edges: 
+	Validation set LL: -2.471668017225153
+kdd with 250 components and 2048 zero edges: 
+	Validation set LL: -2.445230106209794
+msnbc with 250 components and 28 zero edges: 
+	Validation set LL: -6.526749977759872
+msnbc with 250 components and 144 zero edges: 
+	Validation set LL: -6.57211269942029
+nltcs with 250 components and 25 zero edges: 
+	Validation set LL: -6.482124119109412
+nltcs with 250 components and 128 zero edges: 
+	Validation set LL: -6.579991271792147
+plants with 250 components and 476 zero edges: 
+	Validation set LL: -15.434972065513172
+plants with 250 components and 2380 zero edges: 
+	Validation set LL: -15.809645723734317
+pumsb_star with 250 components and 2656 zero edges: 
+	Validation set LL: -31.191160105364656
+pumsb_star with 250 components and 13284 zero edges: 
+	Validation set LL: -34.893953121497184
+tretail with 250 components and 1822 zero edges: 
+	Validation set LL: -10.708102556065533
+tretail with 250 components and 9112 zero edges: 
+	Validation set LL: -10.747082041869698
