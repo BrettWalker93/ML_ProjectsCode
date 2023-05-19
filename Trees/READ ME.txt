@@ -1,0 +1,5 @@
+code was compiled and run both in Google Colab and Visual Studio
+
+basically, run ML_Project4.py, commenting out the sections you don't wish to run and setting the hyperparamaters as desired.
+
+Note, the calculations for the MIXTURE_CLTs take a relatively long time to run, so I separated the script into different colab sessions and ran them simultaneously.
